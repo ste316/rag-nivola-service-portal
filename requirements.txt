@@ -1,0 +1,8 @@
+streamlit
+boto3
+opensearch-py
+fastapi
+pandas
+requests
+langdetect
+deepl

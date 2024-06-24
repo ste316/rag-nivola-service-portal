@@ -1,0 +1,14 @@
+associare un account master al mio account?
+come si crea un vm?
+provisioning di un account
+Come si configura Moon?
+Quali servizi supporta Moon?
+Come posso associare un account master al mio account Nivola?
+Di cosa ho bisogno per creare un account?
+Come si crea uno spazio disco su Nivola?
+Come si possono assegnare ruoli ad un utente?
+Come posso cercare i miei security group su Nivola?
+È possibile per la rete Back-end (RUPAR) comunicare con Internet direttamente?
+Quali sono i tab da compilare per configurare un load balancer?
+Come si gestisce l'associazione di più codici WBS a un account?
+
